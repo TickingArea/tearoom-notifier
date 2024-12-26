@@ -240,6 +240,38 @@ const bushos: Busho[] = [
     {
         name: '【剣聖】上泉信綱',
         military: Military.ASHIGARU
+    },
+    {
+        name: '【剣豪将軍】足利義輝',
+        military: Military.ASHIGARU
+    },
+    {
+        name: '【先手組大将】柿崎景家',
+        military: Military.ASHIGARU
+    },
+    {
+        name: '【米五郎座】丹羽長秀',
+        military: Military.BOW
+    },
+    {
+        name: '【相模の獅子】北条氏康',
+        military: Military.CAVALRY
+    },
+    {
+        name: '【地黄八幡】北条綱成',
+        military: Military.CAVALRY
+    },
+    {
+        name: '【多才の功臣】細川藤孝',
+        military: Military.ASHIGARU
+    },
+    {
+        name: '【名人久太郎】堀秀政',
+        military: Military.GUN
+    },
+    {
+        name: '【往生極楽】本願寺顕如',
+        military: Military.ASHIGARU
     }
 ];
 
