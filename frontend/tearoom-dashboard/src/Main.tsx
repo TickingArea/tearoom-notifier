@@ -272,6 +272,54 @@ const bushos: Busho[] = [
     {
         name: '【往生極楽】本願寺顕如',
         military: Military.ASHIGARU
+    },
+    {
+        name: '【兵百万の采】大谷吉継',
+        military: Military.ASHIGARU
+    },
+    {
+        name: '【多々良の妙計】大友宗麟',
+        military: Military.CAVALRY
+    },
+    {
+        name: '【不退転の勇武】柴田勝家',
+        military: Military.ASHIGARU
+    },
+    {
+        name: '【発憤興起】高橋紹運',
+        military: Military.CAVALRY
+    },
+    {
+        name: '【鬼道雪の采配】立花道雪',
+        military: Military.ASHIGARU
+    },
+    {
+        name: '【土佐の魁傑】長宗我部国親',
+        military: Military.CAVALRY
+    },
+    {
+        name: '【不退転の勇武】柴田勝家',
+        military: Military.ASHIGARU
+    },
+    {
+        name: '【発憤興起】高橋紹運',
+        military: Military.CAVALRY
+    },
+    {
+        name: '【鬼道雪の采配】立花道雪',
+        military: Military.ASHIGARU
+    },
+    {
+        name: '【土佐の魁傑】長宗我部国親',
+        military: Military.CAVALRY
+    },
+    {
+        name: '【土佐の出来人】長宗我部元親',
+        military: Military.CAVALRY
+    },
+    {
+        name: '【関ヶ原の驍勇】本多忠勝',
+        military: Military.ASHIGARU
     }
 ];
 
